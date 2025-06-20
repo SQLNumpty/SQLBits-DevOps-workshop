@@ -18,6 +18,12 @@ If you are performing the labs as part of a self-paced learning experience, you 
 - .NET SDK 8.0+
 - SqlPackage CLI
 
+## SQL Server Details
+
+Server:      sqlbits.database.windows.net
+Admin:       sqladmin
+Password:    2025SQLbits4U
+
 To install the SqlPackage CLI, run the following command after installing the .NET SDK:
 
 ```bash
